@@ -7,7 +7,7 @@ const COLORS = {
   foreground: '#274060'
 }
 
-const THEME = {
+const THEME: any = {
   danger: {
     bg: '#F84735',
     color: '#FFFFFF',

@@ -1,5 +1,5 @@
 import { Story, Meta } from '@storybook/react';
-import ErrorDisplay, { ErrorDisplayProps } from '../components/Errors/ErrorDisplay';
+import ErrorDisplay, { ErrorDisplayProps } from '../app/components/Errors/ErrorDisplay';
 
 export default {
   title: 'Example/ErrorDisplay',
